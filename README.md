@@ -8,6 +8,10 @@ Updated data on hospitalization is made available by the [Saechsische Staatsregi
 
 Modeled scenarios for the propagation of omicron subvariants in winter 2022 for Saxony. *Dark pink lines* show data used for modelling (for test-positives and hospitalized people mean of 7 days, *green lines* indicate data observed later. *Light thin lines in darkyellow and blue* represent individual trajectories representing uncertainty of the modelled scenario pessimistic and optimistic, respectively. The range of both scenarios represents the uncertainty range. The smaller dark-pink lines, in testpositives oscillating lines, are daily reported data. Patients on normal wards plus ITS are counted as hospitalized. Methodology: agent-based model of Saxony. Data source: Reported data from RKI by date of receipt with right-centered 7-day moving average; simulation agents Saxony: [MOCOS, Wrocław University of Science and Technology](https://mocos.pl/de/index.html)
 
-![Fig. 11 updated](results/bullb24_s09_1_bq11_szenarien_onlineupdate.jpeg)
+![Fig. 11 (updated)](results/bullb24_s09_1_bq11_szenarien_onlineupdate.jpeg)
 
-  
+## Update on the 2022/23 influenza-wave in Germany:
+
+![](results/b24_s10_1_influenzaDE.jpeg)
+
+Datasource: <https://survstat.rki.de/>
